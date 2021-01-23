@@ -9,7 +9,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Your OTP Design Learning is successful"
+        android:text="Your OTP Design Learning is Successful"
         android:textAlignment="center"
         android:gravity="center_horizontal"
         android:textStyle="bold"

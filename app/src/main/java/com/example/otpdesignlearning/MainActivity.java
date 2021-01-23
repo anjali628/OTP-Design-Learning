@@ -149,7 +149,7 @@ public class MainActivity extends AppCompatActivity {
                 @Override
                 public void onCodeSent(String s, PhoneAuthProvider.ForceResendingToken forceResendingToken) {
                     super.onCodeSent(s, forceResendingToken);
-                    Toast.makeText(MainActivity.this,"sent",Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this,"Sent",Toast.LENGTH_LONG).show();
                     CodeSent=s;
                 }
             };
