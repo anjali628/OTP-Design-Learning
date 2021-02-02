@@ -24,10 +24,12 @@
         android:layout_height="wrap_content"
         android:id="@+id/sentOtp"
         android:layout_marginTop="20dp"
-        android:text="Get Otp"
+        android:text="Get OTP"
         android:textColor="#3F51B5"
         android:backgroundTint="@color/colorAccent"
         android:layout_below="@id/getPhoneNumber"
+        android:inputType="phone"
+
         ></Button>
 
 <EditText
